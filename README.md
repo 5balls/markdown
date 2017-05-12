@@ -1,3 +1,5 @@
+This is a fork of cebe markdown for our juggling webpage. The original README follows below, please got to the repository of the original author at [cebe\markdown](https://github.com/cebe/markdown). If we add anything possible useful to the code, we will submit pull requests to the original author.
+
 A super fast, highly extensible markdown parser for PHP
 =======================================================
 
